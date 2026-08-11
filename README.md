@@ -1,190 +1,58 @@
-# Karthik DN — Developer Portfolio
+# G Lakshmi — Portfolio
 
-<p align="center">
-  <strong>Java Full Stack Developer • Software Engineer • Problem Solver</strong>
-</p>
+Personal portfolio website built to showcase my skills, projects, education, experience, certifications, and coding profiles.
 
-<p align="center">
-  A modern, responsive personal portfolio showcasing my skills, projects, internship experience, education, achievements, and journey as a Java Full Stack Developer.
-</p>
+## Tech Stack
 
-<p align="center">
-  <a href="https://github.com/karthikdn-11">
-    <img src="https://img.shields.io/badge/GitHub-karthikdn--11-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/karthik-dn11/">
-    <img src="https://img.shields.io/badge/LinkedIn-Karthik%20DN-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/beginnerKDN11/">
-    <img src="https://img.shields.io/badge/LeetCode-beginnerKDN11-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode">
-  </a>
-</p>
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
+- TanStack Router
+- React Icons
 
----
+## Features
 
-## 🌐 Live Portfolio
+- Responsive portfolio design
+- About and skills sections
+- Internship experience
+- Project showcase
+- Education and certifications
+- Achievements
+- GitHub, LinkedIn and LeetCode profiles
+- Resume download
+- Contact section
+- Smooth animations and navigation
 
-**Portfolio:**  
-[Visit My Portfolio](#)
+## Projects
 
-> Replace the `#` above with your deployed portfolio URL after deployment.
+### Soft Tissue Tumor Detection Using GM-UNet
+Deep learning based medical image analysis system for tumor detection and segmentation.
 
----
+**Technologies:** Python, GM-UNet, Flask, Deep Learning
 
-## 👨‍💻 About the Project
+### Hospital Management System
+Web-based application for managing patients, doctors and appointments with database integration.
 
-This repository contains my personal developer portfolio, designed to provide a complete overview of my technical skills, projects, academic background, internship experience, certifications, achievements, and coding profiles.
+**Technologies:** Java, JDBC, MySQL, Servlets
 
-The portfolio is built with a modern dark-themed interface featuring smooth animations, responsive layouts, interactive navigation, glassmorphism-inspired cards, animated typography, and a clean developer-focused design.
+### Open Source Job Portal
+Job portal with role-based functionality for job posting, job applications and application management.
 
-The goal is to provide recruiters, hiring managers, and developers with a quick and engaging way to learn about my technical background and the projects I have worked on.
+**Technologies:** HTML, CSS, TypeScript, Supabase
 
----
+## Getting Started
 
-## ✨ Features
+### Prerequisites
 
-- 🎨 Modern dark-themed developer interface
-- 📱 Fully responsive design for desktop, tablet, and mobile
-- ⚡ Fast development and production builds with Vite
-- 🎬 Smooth UI animations using Framer Motion
-- 🧭 Interactive navigation with active section tracking
-- 📊 Scroll progress indicator
-- ⌨️ Animated typing effect for developer roles
-- 👨‍💻 About Me section
-- 🛠️ Technical Skills section
-- 💼 Internship / Training Experience
-- 🚀 Featured Projects showcase
-- 🎓 Education timeline
-- 🏆 Certifications and achievements
-- 💻 GitHub, LinkedIn and LeetCode profiles
-- 📄 Resume preview and download
-- 📬 Contact section
-- ⬆️ Smooth back-to-top navigation
-- 📱 Mobile navigation menu
-- 🔍 SEO-friendly metadata
-- ♿ Semantic and accessible UI elements
+- Node.js
+- npm
 
----
+### Installation
 
-## 🛠️ Tech Stack
+Clone the repository:
 
-### Frontend
-
-| Technology | Purpose |
-|---|---|
-| React | UI development |
-| TypeScript | Type-safe development |
-| Vite | Development and build tooling |
-| Tailwind CSS | Styling and responsive design |
-| Framer Motion | Animations and transitions |
-| React Icons | Technology and social icons |
-
-### Libraries & Tools
-
-| Tool | Purpose |
-|---|---|
-| TanStack Router | File-based routing |
-| TanStack React Query | Client-side data management |
-| Radix UI | Accessible UI primitives |
-| Lucide / React Icons | Interface icons |
-| ESLint | Code quality |
-| Prettier | Code formatting |
-| Git | Version control |
-| GitHub | Repository and source control |
-
----
-
-## 📂 Portfolio Sections
-
-The website is organized into the following sections:
-
-### 🏠 Home
-
-Introduces me as a Java Full Stack Developer with quick access to:
-
-- Projects
-- Resume
-- Contact
-- GitHub
-- LinkedIn
-- LeetCode
-
-It also includes animated developer roles such as:
-
-- Java Full Stack Developer
-- Spring Boot Developer
-- Software Engineer
-- Problem Solver
-
----
-
-### 👨‍💻 About Me
-
-A short overview of my background, technical interests, development journey, and career goals.
-
-Highlights include:
-
-- B.E. in Computer Science and Engineering
-- Java Full Stack development
-- Spring Boot and REST API development
-- Database management
-- Full-stack project experience
-- Data Structures & Algorithms practice
-
----
-
-### 🛠️ Technical Skills
-
-#### Programming Languages
-
-- Java
-- SQL
-- JavaScript
-- HTML
-- CSS
-- Data Structures & Algorithms
-
-#### Frameworks & Libraries
-
-- Spring Boot
-- Hibernate
-- Servlets
-- JDBC
-- REST APIs
-
-#### Databases
-
-- MySQL
-- MongoDB Atlas
-
-#### Tools
-
-- Eclipse
-- Visual Studio Code
-- Git
-- GitHub
-
----
-
-## 🚀 Featured Projects
-
-### 1. Soft Tissue Tumor Detection Using GM-UNet
-
-A deep-learning-based medical image analysis project designed for soft tissue tumor detection and segmentation.
-
-**Key Features**
-
-- GM-UNet based tumor segmentation
-- Medical image processing
-- Tumor region visualization
-- Image upload interface
-- Deep learning based prediction
-
-**Technologies**
-
-```text
-Python
-GM-UNet
-Deep Learning
-Flask
-Medical Image Processing
+```bash
+git clone https://github.com/glakshmi-16/lakshmi-portfolio.git
+cd lakshmi-portfolio
